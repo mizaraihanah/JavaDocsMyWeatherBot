@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.uum","l":"MyTelegramBot"},{"p":"my.uum","l":"TelegramService"},{"p":"my.uum","l":"WeatherService"}];updateSearchResults();
